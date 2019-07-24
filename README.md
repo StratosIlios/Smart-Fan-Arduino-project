@@ -1,3 +1,2 @@
 # Smart-Fan
-The Smart Fan is an Arduino project 
-The Fan is working as long as the Ultrasonic Sensor is not blocked. In case that the Sensor is blocked by an obstacle, it tries to avoid it.
+The Smart Fan is an Arduino project. The Fan is working as long as the ultrasonic sensor is not blocked by an obstacle. In case that the sensor is blocked by an obstacle the motor is turned off and the sensor tries to avoid it. When free space is being found by the sensor, the motor is turned on again. In case that there are a lot of obstacles around the sensor, it scans continuously around the area searching for free space. The scanning covers a 180 degrees angle because the use of servo motor. 
