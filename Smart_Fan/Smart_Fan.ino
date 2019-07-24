@@ -56,7 +56,7 @@ void ServoPosition(){
      if(DistanceObstacle>20){break;} 
      //Serial.println(i);
     }
-  }
+   }
 //  Serial.println(i);
 }
  
