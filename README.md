@@ -12,3 +12,5 @@ Components that have been used:
 8. 2X Resistors 220 Ohm
 9. 4X Female-to-male Dupont wires
 10. 13X 65 Jumper Wires
+
+Video of the project: https://www.youtube.com/watch?v=VrM37CDSFXY&feature=youtu.be
